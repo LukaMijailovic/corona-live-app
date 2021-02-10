@@ -1,0 +1,60 @@
+{
+    "markers": [
+      {
+        "id": 0,
+        "sender": "Marvin Gaye",
+        "desc": "Ik zit in quarantaine en ik kan de deur niet uit, wie wilt mij helpen met de boosdschappen.",
+        "lat": 52.018688,
+        "lng": 5.042,
+        "action": 0
+      },
+      {
+        "id": 1,
+        "sender": "Prince",
+        "desc": "Ik wil met iemand sporten.",
+        "lat": 52.073888,
+        "lng": 5.101365,
+        "action": 4
+      },
+      {
+        "id": 2,
+        "sender": "Niffo Jan",
+        "desc": "Ik wil met iemand gaan wandelen.",
+        "lat": 52.032452,
+        "lng": 5.08899,
+        "action": 0
+      }
+    ],
+    "actions": [
+      {
+        "id": 0,
+        "action": "Boodschappen doen",
+        "filename": "boodschappendoen.svg",
+        "scale": 1
+      },
+      {
+        "id": 1,
+        "action": "Fietsen",
+        "filename": "fietsen.svg",
+        "scale": 1
+      },
+      {
+        "id": 2,
+        "action": "Hardlopen",
+        "filename": "hardlopen.svg",
+        "scale": 1
+      },
+      {
+        "id": 3,
+        "action": "Hond uitlaten",
+        "filename": "honduitlaten.svg",
+        "scale": 1
+      },
+      {
+        "id": 4,
+        "action": "Wandelen",
+        "filename": "wandelen.svg",
+        "scale": 1
+      }
+    ]
+  }
